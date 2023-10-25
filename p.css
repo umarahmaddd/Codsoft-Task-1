@@ -1,0 +1,238 @@
+body {
+    color: white;
+    background-color: rgb(28, 28, 58);
+}
+
+nav {
+    background-color: rgb(165, 165, 165);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    height: 45px;
+    background-color: rgb(0, 0, 59);
+}
+
+nav div.left {
+    color: white;
+
+}
+
+nav ul {
+    display: flex;
+    color: white
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a {
+
+    text-decoration: none;
+    color: white;
+
+}
+
+nav ul li a:hover {
+    color: rgb(181, 181, 211);
+    font-size: larger;
+
+}
+
+
+section {
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec1 {
+    display: block;
+
+    width: 300px;
+    height: 120px;
+    font-size: 1.4rem;
+    padding-bottom: 120px;
+    padding-left: 110px;
+}
+
+.img {
+    width: 10%;
+    height: 1000%;
+    padding-right: 320px;
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+
+.left {
+    font-size: 2rem;
+    margin-right: 200px;
+}
+
+hr {
+    margin-left: 30px;
+    margin-right: 30px;
+    display: flex;
+    height: 3px;
+
+
+}
+
+h2 {
+    margin-left: 110px;
+
+}
+
+.work {
+    width: 900px;
+    height: 1.2px;
+    background-color: white;
+    margin-left: 135px;
+    padding-left: 200px;
+}
+
+.v1 {
+    width: 8px;
+    background-color: rgb(0, 0, 59);
+    height: 90px;
+    margin-left: 135px;
+
+
+}
+
+.box {
+    display: flex;
+    margin: 0 330px;
+
+}
+
+.v12 {
+    margin-top: 90px;
+    margin-right: 65px;
+    font-size: large;
+    background-color: rgb(0, 0, 59);
+}
+
+
+
+.a1 {
+    font-size: small;
+
+}
+
+.s1 {
+    margin-top: 70px;
+    margin-left: 130px;
+}
+
+.work2 {
+    width: 900px;
+    height: 0.7px;
+    background-color: white;
+    margin-left: 135px;
+    padding-left: 200px;
+    display: flex;
+
+}
+
+.v2 {
+    width: 8px;
+
+    height: 90px;
+    margin-left: 135px;
+    background-color: rgb(0, 0, 59);
+
+}
+
+.a2 {
+    margin-top: 90px;
+}
+
+.cont {
+    margin-top: 3%;
+    margin-left: 2px;
+     
+}
+
+.phn {
+    margin-top: 10%;
+    margin-left: 27%;
+    font-size: medium;
+}
+
+.Email {
+    font-size: medium;
+    margin-left: 20%;
+}
+
+.btn {
+    margin-top: 0%;
+     padding: 10px 20px;
+    border-radius: 25px;
+    background-color:white;
+    color: rgb(60, 5, 238);
+}
+
+.btn:hover {
+    background-color: rgb(0, 0, 59);
+
+}
+
+.img1 {
+    margin-top: 8%;
+    margin-left: 1.5%;
+}
+
+.img11 {
+    margin-left: 90%;
+    width: "200px";
+    height: "200px"
+}
+
+.img2 {
+    margin-top: 1.5%;
+    margin-left: 2%;
+}
+
+.img3 {
+    margin-top: 1.5%;
+    margin-left: 5%;
+    background-color:white;
+}
+
+.pro {
+    display: flex;
+  
+}
+
+.footer {
+    margin-top: 15px;
+    display: flex;
+    height: 200px;
+    width: 100%;
+    background-color: rgb(0, 0, 59);
+
+
+}
+
+
+.f1 ul {
+    margin-left: 250px;
+    padding-top: 30px;
+}
+
+.footer .f1 ul li {
+    margin-top: 2%;
+    margin-left: 7.5%;
+    list-style-type: disc;
+    padding-top: 15px;
+}
+
+.footer .p1 {
+
+    margin-top: 40px;
+    margin-left: 45%;
+
+}
